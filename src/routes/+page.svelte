@@ -1,2 +1,5 @@
-<h1 class="uppercase font-extrabold">Dashboard quryapman</h1>
+<script>
+import { Hand } from 'lucide-svelte';
+</script>
 
+<Hand />
